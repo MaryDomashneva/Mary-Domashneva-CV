@@ -7,22 +7,22 @@ Full stack Ruby develope with a strong analytical background.
 My craving for knowledge always ended with me starting totally new projects in my prior profession as a finance analyst.
 One day I found myself building from scratch financial model using basic SQL language (Excel Macro). Before I even didn't think that I can be a developer. But my model worked and I enjoyed the process. That is how I realize that I admire more problem-solving and code crunching tasks than money counting :)
 
-This idea brought me to one of the moste cool and discerning dev boot camps in the world - Makers Academy!
+This idea brought me to one of the most cool and discerning dev boot camps in the world - Makers Academy!
 
-#### Let's see what I have:
+### Let's see what I have:
 
-  **Excelent background to be a confident juniour developer:**
+  **Excellent background to be a confident junior developer:**
 
    to be attempt
 
-  **Strong analitical skills:**
+  **Strong analytical skills:**
 
   My University gave me a strong math background and my experience as an analyst and auditor polish my knowledge.
 
   During my work as an analyst, I had a chance to take part in many international projects in different business areas.
   I learned to work with a big data in tight deadlines, by trying to see what is truly important,
   allocating time properly be efficient without letting quality suffer.
-  Because work we did was our product and the quality of the product - is a face and image of thecompany.
+  Because work we did was our product and the quality of the product - is a face and image of the company.
 
   **Stress resistance**
 
@@ -40,7 +40,7 @@ This idea brought me to one of the moste cool and discerning dev boot camps in t
   I learned to appreciate other people values, understand different cultures and work hard to build effective working conditions.
 
 
-#### What's more:
+### What's more:
   * I learn fast and open for everything new.
   * I knew a few languages:
     * English and Russian languages — fluent
@@ -75,7 +75,7 @@ Top 200 QS World University Rankings, 2018 by subject Economics & Econometrics.
 #### Die deutSCHule, Berlin (April 2015 - October 2015)
 
 Full-time language school
-Subject: German langiage
+Subject: German language
 
 ## Experience
 
@@ -91,6 +91,6 @@ Subject: German langiage
 ## Interests and activities:
 * Puzzles. I love puzzles over 1500 details
 * Board games. We play different board games such as Monopoly and Imaginarium with my friends
-* Travel. I love travelling and I am trying to visit a new country every year
+* Travel. I love traveling and I am trying to visit a new country every year
 * Yoga. I do yoga twice a week
 * Dog lover. I have a dog and we love to go to parks to meet new furry friends
