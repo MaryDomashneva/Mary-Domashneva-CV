@@ -1,6 +1,6 @@
 ## Domashneva Mariia
 
-Full stack Ruby develope with a strong analytical background. 
+Full stack Ruby developer with a strong analytical background. 
 
 ## Skills
 
