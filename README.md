@@ -4,6 +4,8 @@ Former finance analyst. Now Ruby developer, with a strong analytical background,
 
 ****
 
+[Projects](#projects) | [Soft Skills](#soft-skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [What's more](#whats_more) | [Contact](#contact)
+
 My craving for knowledge always ended with me starting totally new projects in my prior profession as a finance analyst.
 One day I found myself building from scratch financial model using basic SQL language (Excel Macro). Before I even didn't think that I can be a developer. But my model worked and I enjoyed the process. That is how I realize that I admire more problem-solving and code crunching tasks than money counting.
 
