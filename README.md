@@ -4,10 +4,16 @@ Former finance analyst. Now Ruby developer, with a strong analytical background,
 
 ****
 
-[Projects](#projects) | [Soft Skills](#soft-skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [What's more](#whats_more) | [Contact](#contact)
+[Contact](#contact) | [Projects](#projects) | [Soft Skills](#soft-skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [What's more](#whats_more)
+
+***
+
+### <a name="contact">Find me</a>
+
+<a href="https://www.linkedin.com/in/mariia-domashneva-087207128/"><img src="logos/linkedin.png" width="50"></a> <img src="logos/empty.png" width="40"> <a href="https://github.com/MaryDomashneva"><img src="logos/github.png" width="50"></a> <img src="logos/empty.png" width="40"> <a href="https://www.codewars.com/users/mary.domashneva"><img src="logos/codewars.png" width="50"></a> <img src="logos/empty.png" width="40">
 
 My craving for knowledge always ended with me starting totally new projects in my prior profession as a finance analyst.
-One day I found myself building from scratch financial model using basic SQL language (Excel Macro). Before I even didn't think that I can be a developer. But my model worked and I enjoyed the process. That is how I realize that I admire more problem-solving and code crunching tasks than money counting.
+One day I found myself building from scratch financial model using basic SQL language (Excel Macro). Before I even didn't think that I can be a developer. But my model worked and I enjoyed the process. That is how I realized that I admire more problem-solving and code crunching tasks than money counting.
 
 This idea brought me to one of the most cool and discerning dev boot camps in the world - Makers Academy!
 
@@ -63,7 +69,7 @@ Project | Repo | Description | Technologies Used| Testing Technologies | Deploye
 **Tele2 Russia**, Moscow (January 2015 to March 2015)   
 *Business analyst*
 
-**KPMG**, Moscow (January 2015 to March 2015)   
+**KPMG**, Moscow (October 2013 to January 2015)   
 *Auditor, advisory*
 
 ***
@@ -113,8 +119,4 @@ Subject: German language
   * I knew a few languages:
     * English and Russian languages — fluent
     * German language - intermediate
-***
 
-### <a name="contact">Find me</a>
-
-<a href="https://www.linkedin.com/in/mariia-domashneva-087207128/"><img src="logos/linkedin.png" width="50"></a> <img src="logos/empty.png" width="40"> <a href="https://github.com/MaryDomashneva"><img src="logos/github.png" width="50"></a> <img src="logos/empty.png" width="40"> <a href="https://www.codewars.com/users/mary.domashneva"><img src="logos/codewars.png" width="50"></a> <img src="logos/empty.png" width="40">
