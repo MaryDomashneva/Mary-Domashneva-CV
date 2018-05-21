@@ -1,19 +1,31 @@
 ## Domashneva Mariia
 
-Full stack Ruby developer with a strong analytical background. 
+Former finance analyst. Now Ruby developer, with a strong analytical background, looking for a job as a full-stack developer.
 
-## Skills
+****
 
 My craving for knowledge always ended with me starting totally new projects in my prior profession as a finance analyst.
-One day I found myself building from scratch financial model using basic SQL language (Excel Macro). Before I even didn't think that I can be a developer. But my model worked and I enjoyed the process. That is how I realize that I admire more problem-solving and code crunching tasks than money counting :)
+One day I found myself building from scratch financial model using basic SQL language (Excel Macro). Before I even didn't think that I can be a developer. But my model worked and I enjoyed the process. That is how I realize that I admire more problem-solving and code crunching tasks than money counting.
 
 This idea brought me to one of the most cool and discerning dev boot camps in the world - Makers Academy!
 
-### Let's see what I have:
+***
 
-  **Excellent background to be a confident junior developer:**
+### <a name="projects">Projects</a>
 
-   to be attempt
+Project | Repo | Description | Technologies Used| Testing Technologies | Deployed (click)
+--- | --- | --- | --- | --- | ---
+**Oystercard** |  <a href="https://github.com/MaryDomashneva/oystercard"><img src="logos/github.png" width="40"></a> |  |  |  |  |
+**Takeaway** |  <a href="https://github.com/MaryDomashneva/takeaway-challenge"><img src="logos/github.png" width="40"></a> |  |  |  |  |
+**Chitter** |  <a href="https://github.com/MaryDomashneva/chitter-challenge"><img src="logos/github.png" width="40"></a> |  |  |  |  |
+**Rock-Scissors-Paper** |  <a href="https://github.com/MaryDomashneva/rps-challenge"><img src="logos/github.png" width="40"></a> |  |  |  |  |
+**News Summary** |  <a href="https://github.com/MaryDomashneva/news-summary-challenged"><img src="logos/github.png" width="40"></a> |  |  |  |  |
+**Bowling** |  <a href="https://github.com/MaryDomashneva/bowling-challeng"><img src="logos/github.png" width="40"></a> |  |  |  |  |
+**ACEBOOK** |  <a href="https://github.com/blarvin/TEAM-MALN-ACEBOOK"><img src="logos/github.png" width="40"></a> |  |  |  |  |
+
+***
+
+### <a name="soft-skills">Soft skills</a>
 
   **Strong analytical skills:**
 
@@ -39,17 +51,22 @@ This idea brought me to one of the most cool and discerning dev boot camps in th
   which are a crucial factor in the healthy working environment.
   I learned to appreciate other people values, understand different cultures and work hard to build effective working conditions.
 
+***
 
-### What's more:
-  * I learn fast and open for everything new.
-  * I knew a few languages:
-    * English and Russian languages — fluent
-    * German language - intermediate
+### <a name="experience">Experience</a>
 
-  * I supported the process of choosing and successfully implementing the accounting software in Auto1 Group
-  * I achieved every year promotion from A1 level to A3 with effective and high effective mark
+**Auto1 Group GmBH**, Berlin (January 2016 to August 2017)    
+*Finance analyst*
 
-## Education
+**Tele2 Russia**, Moscow (January 2015 to March 2015)   
+*Business analyst*
+
+**KPMG**, Moscow (January 2015 to March 2015)   
+*Auditor, advisory*
+
+***
+
+### <a name="education">Education</a>
 
 #### Makers Academy (19.02.2018 to 19.06.2018)
 
@@ -77,20 +94,25 @@ Top 200 QS World University Rankings, 2018 by subject Economics & Econometrics.
 Full-time language school
 Subject: German language
 
-## Experience
+***
 
-**Auto1 Group GmBH**, Berlin (January 2016 to August 2017)    
-*Finance analyst*
+### <a name="interests">Interests</a>
 
-**Tele2 Russia**, Moscow (January 2015 to March 2015)   
-*Business analyst*
-
-**KPMG**, Moscow (January 2015 to March 2015)   
-*Auditor, advisory*
-
-## Interests and activities:
 * Puzzles. I love puzzles over 1500 details
 * Board games. We play different board games such as Monopoly and Imaginarium with my friends
 * Travel. I love traveling and I am trying to visit a new country every year
 * Yoga. I do yoga twice a week
 * Dog lover. I have a dog and we love to go to parks to meet new furry friends
+
+***
+
+### <a name="whats_more">What's more</a>
+  * I learn fast and open for everything new.
+  * I knew a few languages:
+    * English and Russian languages — fluent
+    * German language - intermediate
+***
+
+### <a name="contact">Find me</a>
+
+<a href="https://www.linkedin.com/in/mariia-domashneva-087207128/"><img src="logos/linkedin.png" width="50"></a> <img src="logos/empty.png" width="40"> <a href="https://github.com/MaryDomashneva"><img src="logos/github.png" width="50"></a> <img src="logos/empty.png" width="40"> <a href="https://www.codewars.com/users/mary.domashneva"><img src="logos/codewars.png" width="50"></a> <img src="logos/empty.png" width="40">
