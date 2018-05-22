@@ -43,6 +43,7 @@ I am experienced in Ruby, Rails, and JavaScript. I feel comfortable working with
 
 #### Front-end and Design
 
+I am experienced in HTML and CSS
 
 #### Testing
 
