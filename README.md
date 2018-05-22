@@ -4,7 +4,7 @@ Former finance analyst. Now Ruby developer, with a strong analytical background,
 
 ****
 
-[Contact](#contact) | [Projects](#projects) | [Soft Skills](#soft-skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [What's more](#whats_more)
+[Contact](#contact) | [Projects](#projects) | [Technical Skills](#tech-skills) | [Soft Skills](#soft-skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [What's more](#whats_more)
 
 ***
 
@@ -30,6 +30,23 @@ Project | Repo | Description | Technologies Used| Testing Technologies | Deploye
 **News Summary** |  <a href="https://github.com/MaryDomashneva/news-summary-challenged"><img src="logos/github.png" width="40"></a> | A single page web app created by using only frontend JavaScript, CSS, and HTML. Ruby or backend JavaScript was not used. The app grabs top 10 headlines from the Guardian newspaper API and displays them on a page. Clicking on a headline shows a summary of the article using the Aylien API [weekend solo project at Makers Academy] | Static web server (e.g. http-server) to serve HTML, CSS and JavaScript files; API: Guardian newspaper API homepage; API: Aylien text summary API docs; CSS | Node JS 8.9.4; | [Check project online](http://guardians_news_summary_challenge.surge.sh/) |
 **Bowling** |  <a href="https://github.com/MaryDomashneva/bowling-challeng"><img src="logos/github.png" width="40"></a> | Count and sum the scores of a bowling game for one player (in JavaScript) [weekend solo project at Makers Academy] | Front-end: Javascript, jQuery, HTML, CSS; back-end: Javascript | Jasmine | [Check project online](http://bowling_md.surge.sh/) |
 **ACEBOOK** |  <a href="https://github.com/blarvin/TEAM-MALN-ACEBOOK"><img src="logos/github.png" width="40"></a> | Social media project. Simple clone of Facebook. [2-weeks group project at Makers Academy] |  Ruby 2.5.0, Rails 5.1.5, CSS, Rails generator: Devise, Docker, Heroku, Travis-ci, Simplecov, Rubocop, Codeclimate, PRY, Acts As Votable  | Rspec | [Check project online](https://maln-acebook.herokuapp.com/users/sign_in) |
+
+***
+
+### <a name="tech-skills">Technical Skills - Full-stack</a>
+
+#### Back-end
+
+I love problem-solving and feel comfortable in writing a back end.
+At Makers Academy we are following best practice and stick to Conventions when writing our code.
+I am experienced in Ruby, Rails, and JavaScript. I feel comfortable working with Databases, such as Postgre SQL. Also, I am experienced in a successful integration of Docker and Heroku to the project [check here](https://github.com/blarvin/TEAM-MALN-ACEBOOK)
+
+#### Front-end and Design
+
+
+#### Testing
+
+At Makers Academy we are practicing Test-Driven-Development (TDD). So I am trying to keep all my projects tested with test coverage > 95%. I've worked with RSpec, Capybara, and Jasmine. Also, I practiced creating my own testing environment, using only JavaScript [check here](https://github.com/MaryDomashneva/news-summary-challenged)
 
 ***
 
