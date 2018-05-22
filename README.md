@@ -96,14 +96,9 @@ At Makers Academy we are practicing Test-Driven-Development (TDD). So I am tryin
 
 #### Makers Academy (19.02.2018 to 19.06.2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Curious and passionate about code.
+- Fast, independent learner.
+- Great collaborator.
 
 #### National Research University Higher School of Economics, Russia (September 2007 to June 2012)
 
