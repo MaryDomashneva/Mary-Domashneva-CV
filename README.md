@@ -23,8 +23,8 @@ This idea brought me to one of the most cool and discerning dev boot camps in th
 
 Project | Repo | Description | Technologies Used| Testing Technologies | Deployed (click)
 --- | --- | --- | --- | --- | ---
-**Oystercard** |  <a href="https://github.com/MaryDomashneva/oystercard"><img src="logos/github.png" width="40"></a> |  |  |  |  |
-**Takeaway** |  <a href="https://github.com/MaryDomashneva/takeaway-challenge"><img src="logos/github.png" width="40"></a> |  |  |  |  |
+**Oystercard** |  <a href="https://github.com/MaryDomashneva/oystercard"><img src="logos/github.png" width="40"></a> | The idea of the project is to make a clone of London Oyster card [week #2 pair-programming challenge at Makers Akademy] | Ruby 2.5.0, Travis | Rspec | --- |
+**Takeaway** |  <a href="https://github.com/MaryDomashneva/takeaway-challenge"><img src="logos/github.png" width="40"></a> | An example of take-away restaurant, where you can place an order and get confirmation via SMS [weekend solo project at Makers Akademy] | Ruby 2.5.0, TWILIO API, Travis, Codebeat  | Rspec, Capybara | --- |
 **Chitter** |  <a href="https://github.com/MaryDomashneva/chitter-challenge"><img src="logos/github.png" width="40"></a> |  |  |  |  |
 **Rock-Scissors-Paper** |  <a href="https://github.com/MaryDomashneva/rps-challenge"><img src="logos/github.png" width="40"></a> |  |  |  |  |
 **News Summary** |  <a href="https://github.com/MaryDomashneva/news-summary-challenged"><img src="logos/github.png" width="40"></a> |  |  |  |  |
