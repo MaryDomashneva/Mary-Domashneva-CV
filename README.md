@@ -47,7 +47,7 @@ I am experienced in HTML and CSS
 
 #### Testing
 
-At Makers Academy we are practicing Test-Driven-Development (TDD). So I am trying to keep all my projects tested with test coverage > 95%. I've worked with RSpec, Capybara, and Jasmine. Also, I practiced creating my own testing environment, using only JavaScript [check here](https://github.com/MaryDomashneva/news-summary-challenged)
+At Makers Academy we are practicing Test-Driven-Development (TDD). So I am trying to keep all my projects tested with test coverage > 95%. I've worked with RSpec, Capybara, and Jasmine. Also, I practiced creating my own testing environment, using only JavaScript [check here](https://github.com/MaryDomashneva/news-summary-challenge/tree/master/tests)
 
 ***
 
