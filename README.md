@@ -1,4 +1,4 @@
-## Domashneva Mariia
+## Mariia Domashneva
 
 Former finance analyst. Now Ruby developer, with a strong analytical background, looking for a job as a full-stack developer.
 
