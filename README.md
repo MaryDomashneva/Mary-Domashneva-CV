@@ -82,6 +82,21 @@ At Makers Academy we are practicing Test-Driven-Development (TDD). So I am tryin
 
 ### <a name="experience">Experience</a>
 
+**ToucanBox**, London (July 2018 till present)
+*Developer*
+At toucanBox I joined a talented and quickly growing team delivering the ruby backend for a craft kit subscription service. In my time here I have supported the development of a new payment module, warehouse support system, school PTA promotions system, and general discount refactor.
+
+I've used Sinatra/Sequel, and also ActiveAdmin and ActiveRecord. Our apps are deployed through CircleCI, and we use Docker / Rancher to serve them.
+
+Tehnology used:
+* Ruby, Ruby on Rails
+* Active Admin
+* ActiveRecord
+* Docker
+* Runcher
+* logentries
+* Psql/SQL
+
 **Auto1 Group GmBH**, Berlin (January 2016 to August 2017)    
 *Finance analyst*
 
