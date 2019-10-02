@@ -24,10 +24,11 @@ This idea brought me to one of the most cool and discerning dev boot camps in th
 Project | Repo | Description | Technologies Used| Testing Technologies | Deployed (click)
 --- | --- | --- | --- | --- | ---
 **ToucanBox** | ---| At toucanBox I joined a talented and quickly growing team delivering the ruby backend for a craft kit subscription service. In my time here I have supported the development of a new payment module, warehouse support system, school PTA promotions system, and general discount refactor. I've used Sinatra/Sequel, and also ActiveAdmin and ActiveRecord. Our apps are deployed through CircleCI, and we use Docker / Rancher to serve them. | Ruby, Ruby on Rails, Active Admin, ActiveRecord, Docker, Runcher, logentries, Psql/SQL | Rspec | [Check site here](https://signup.toucanbox.com) |
+**SimplyBusiness** | ---| At Simply Business I've worked on a several projects such as: 1. product placement: frontend work to place A/B tests and product advertisment on our site. 2. The Gallagher progect: build a platform for business partnership with Gallagher [see post on linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6572396703721361408/) 3. Building a data analitical platform for our partners. All projects involved close communication with a busness.| Ruby, Ruby on Rails, React, Psql/SQL, Sequel, Kafka, Docker, API | Rspec, jezt, story book, react testing library | [Check site here](https://www.simplybusiness.co.uk/) |
 
 ***
 
-### <a name="projects">Open Source Projects</a>
+### <a name="projects">Makers Academy leraning Projects</a>
 
 Project | Repo | Description | Technologies Used| Testing Technologies | Deployed (click)
 --- | --- | --- | --- | --- | ---
@@ -39,24 +40,6 @@ Project | Repo | Description | Technologies Used| Testing Technologies | Deploye
 **Bowling** |  <a href="https://github.com/MaryDomashneva/bowling-challenge"><img src="logos/github.png" width="40"></a> | Count and sum the scores of a bowling game for one player (in JavaScript) [weekend solo project at Makers Academy] | Front-end: Javascript, jQuery, HTML, CSS; back-end: Javascript | Jasmine | [Check project online](http://bowling_md.surge.sh/) |
 **ACEBOOK** |  <a href="https://github.com/blarvin/TEAM-MALN-ACEBOOK"><img src="logos/github.png" width="40"></a> | Social media project. Simple clone of Facebook. [2-weeks group project at Makers Academy] |  Ruby 2.5.0, Rails 5.1.5, CSS, Rails generator: Devise, Docker, Heroku, Travis-ci, Simplecov, Rubocop, Codeclimate, PRY, Acts As Votable  | Rspec | [Check project online](https://maln-acebook.herokuapp.com/users/sign_in) |
 **MixMakers** |  <a href="https://github.com/MaryDomashneva/MixMakers"><img src="logos/github.png" width="40"></a> | a cocktail search app. [Final Project at Makers Academy]| Xcode 9.3.1, Swift 4.1.2, TheCocktailDB API | Quick, Nimble | --- |
-
-***
-
-### <a name="tech-skills">Technical Skills - Full-stack</a>
-
-#### Back-end
-
-I love problem-solving and feel comfortable in writing a back end.
-At Makers Academy we are following best practice and stick to Conventions when writing our code.
-I am experienced in Ruby, Rails, and JavaScript. I feel comfortable working with Databases, such as Postgre SQL. Also, I am experienced in a successful integration of Docker and Heroku to the project [check here](https://github.com/blarvin/TEAM-MALN-ACEBOOK)
-
-#### Front-end and Design
-
-I am experienced in HTML and CSS
-
-#### Testing
-
-At Makers Academy we are practicing Test-Driven-Development (TDD). So I am trying to keep all my projects tested with test coverage > 95%. I've worked with RSpec, Capybara, and Jasmine. Also, I practiced creating my own testing environment, using only JavaScript [check here](https://github.com/MaryDomashneva/news-summary-challenge/tree/master/tests)
 
 ***
 
@@ -90,7 +73,10 @@ At Makers Academy we are practicing Test-Driven-Development (TDD). So I am tryin
 
 ### <a name="experience">Experience</a>
 
-**ToucanBox**, London (July 2018 till present)            
+**Simply Business**, London (November 2018 till present)            
+*Junior Engineer*
+
+**ToucanBox**, London (July 2018 to November 2018)            
 *Developer*
 
 **Auto1 Group GmBH**, Berlin (January 2016 to August 2017)    
@@ -131,7 +117,6 @@ Subject: German language
 
 ### <a name="interests">Interests</a>
 
-* Puzzles. I love puzzles over 1500 details
 * Board games. We play different board games such as Monopoly and Imaginarium with my friends
 * Travel. I love traveling and I am trying to visit a new country every year
 * Yoga. I do yoga twice a week
